@@ -1,0 +1,10 @@
+@:fakeEnum(String) extern enum GCNotificationTypes {
+	BEGIN_LOAD;
+	HIDE_TAB;
+	LAUNCH_GAME;
+	LOAD_SKIN_AND_STYLE;
+	SHOW_CHART_LISTS;
+	SHOW_TAB;
+	SKIN_AND_STYLE_LOADED;
+	STARTUP;
+}
